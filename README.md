@@ -109,7 +109,7 @@ Used a custom `useDebounce()` hook to limit search input frequency in the sideba
 ![Dark Chatroom](./src/assets/screenshots/dark-chatroom.png)
 
 ### 📸 Mobile View
-![Mobile Sidebar](./src/assets/screenshot/mobile-view.png)
+![Mobile Sidebar](./src/assets/screenshots/mobile-view.png)
 
 ### 📸 Chat with Image Upload & sidebar closed
 ![Chat with Image](./src/assets/screenshots/image-upload.png)
