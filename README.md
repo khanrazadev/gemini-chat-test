@@ -103,16 +103,16 @@ Used a custom `useDebounce()` hook to limit search input frequency in the sideba
 <!-- 📸 Screenshots -->
 
 ### 📸 Gemini Chat UI (Light Mode)
-![Light Chatroom](./src/assets/screenshots/light-chatroom.pn)
+![Light Chatroom](./src/assets/screenshots/light-chatroom.png)
 
 ### 📸 Gemini Chat UI (Dark Mode)
-![Dark Chatroom](./assets/screenshots/dark-chatroom.png)
+![Dark Chatroom](./src/assets/screenshots/dark-chatroom.png)
 
 ### 📸 Mobile View
-![Mobile Sidebar](./assets/screenshot/mobile-view.png)
+![Mobile Sidebar](./src/assets/screenshot/mobile-view.png)
 
 ### 📸 Chat with Image Upload & sidebar closed
-![Chat with Image](./assets/screenshots/image-upload.png)
+![Chat with Image](./src/assets/screenshots/image-upload.png)
 
 ---
 
