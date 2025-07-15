@@ -106,6 +106,7 @@ const Login = () => {
           </>
         ) : (
           <>
+            <p className="italic text-center text-sm text-gray-500">Your OTP is 1234</p>
             <input
               type="text"
               placeholder="Enter 4-digit OTP"
