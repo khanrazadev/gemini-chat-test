@@ -2,6 +2,8 @@
 
 Built a smooth, Gemini-style chat app using React, Zustand, and Tailwind CSS. It looks a lot like Google’s Gemini and has features like chat history, dark/light mode, message pagination, infinite scroll, image uploads, mobile support, and more.
 
+![Light Chatroom Preview](./assets/screenshots/light-chatroom.png)
+
 🔗 **Live URL**: [https://gemini-chat-test-orpin.vercel.app/app](https://gemini-chat-test-orpin.vercel.app/app)
 📦 **GitHub Repo**: [https://github.com/khanrazadev/gemini-chat-test](https://github.com/khanrazadev/gemini-chat-test)
 
